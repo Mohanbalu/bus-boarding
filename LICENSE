@@ -1,0 +1,8 @@
+cat > LICENSE <<'MIT'
+MIT License
+
+Copyright (c) //
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+(put full MIT text here — use a template or GitHub's license generator)
+MIT
